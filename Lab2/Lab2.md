@@ -15,6 +15,8 @@ This lab introduces basic Linux command-line operations and Git repository manag
 
 1. **`hostname`**  
    - Displays the name of the device or system currently being used.
+     ![host name](git-clone.png)
+
 
 2. **`env`**  
    - Lists all environment variables and their values for the current session.
