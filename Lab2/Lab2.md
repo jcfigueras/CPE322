@@ -15,7 +15,7 @@ This lab introduces basic Linux command-line operations and Git repository manag
 
 1. **`hostname`**  
    - Displays the name of the device or system currently being used.
-     ![host name](git-clone.png)
+     ![host name](hostname.png)
 
 
 2. **`env`**  
@@ -26,6 +26,7 @@ This lab introduces basic Linux command-line operations and Git repository manag
 
 4. **`ls`**  
    - Lists the contents of the current directory, including files and subdirectories.
+   ![ls](ls.png)
 
 5. **`cat [filename]`**  
    - Displays the contents of a specified file directly in the terminal.
@@ -70,5 +71,9 @@ This lab introduces basic Linux command-line operations and Git repository manag
 
 9. **`uname`**  
    - Displays system information such as OS, kernel version, and architecture.
+  
+10. **`ps`**  
+   - Displays information about currently running processes, including their process IDs (PIDs), parent process IDs (PPIDs), and the commands that started them.
+     ![ps](ps.png)
 
 ---
