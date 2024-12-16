@@ -20,11 +20,11 @@ This lab explores executing Python scripts in a Linux environment, focusing on m
 
 3. **`python3 datetime_example.py`**  
    - Executes a script showcasing the `datetime` module for advanced date and time operations.
-   - ![date](date.png)
+   - ![datetime](datetime.png)
 
 4. **`python3 time_example.py`**  
    - Runs a script highlighting the `time` module for operations such as timestamps.
-   - ![date](date.png)
+   - ![time](time.png)
      
 5. **`python3 sun.py "New York"`**  
    - Retrieves sunrise and sunset times for New York using the `astral` module.  
