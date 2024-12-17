@@ -8,7 +8,7 @@ ghdl -e ha_tb
 ghdl -r ha_tb --vcd=ha.vcd  
 gtkwave ha.vcd  
 ```
-![Half-Adder](hf.png) 
+![Half-Adder](ha.png) 
 
 ### Full Adder  
 ```bash  
